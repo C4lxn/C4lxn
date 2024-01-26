@@ -8,7 +8,7 @@
 <p align="center">
  <a href="https://discord.com/users/939214875861868654" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/owslo" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="[https://open.spotify.com/user/wh4d5ljfqzfp4cpt6dci81xj4?si=583203d345494057](https://open.spotify.com/user/agghjvwwdvlvcrwr88f8k7rru?si=5a028e8117f14ada)" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/agghjvwwdvlvcrwr88f8k7rru?si=190f2dd85b294000" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/berkefiidan/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
   ## I'm Listening Right Now,
