@@ -2,7 +2,7 @@
 
 #
 
-<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/346258085930729472">
+<img width="30%" align="right" src="https://cdn.discordapp.com/attachments/1150346674196197378/1200546821173411901/Picsart_24-01-27_00-03-51-420.jpg">
 <div align="left" width="100%">
 <img src="https://cdn.discordapp.com/attachments/1150346674196197378/1200546821173411901/Picsart_24-01-27_00-03-51-420.jpg">
 <p align="center">
