@@ -4,7 +4,7 @@
 
 <img width="30%" align="right" src="https://luppufy-api.onrender.com/member/346258085930729472">
 <div align="left" width="100%">
-
+<img src="https://cdn.discordapp.com/attachments/1150346674196197378/1200546821173411901/Picsart_24-01-27_00-03-51-420.jpg">
 <p align="center">
  <a href="https://discord.com/users/939214875861868654" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/owslo" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
