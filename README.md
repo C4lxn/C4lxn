@@ -2,7 +2,7 @@
 
 #
 
-<img width="3%" align="https://media.discordapp.net/attachments/999754003455942727/1208122817963622450/m0NAL1ZAPP.jpg?ex=65e2230d&is=65cfae0d&hm=cf22d4986a8f766b00b6e74f6742b99c04f044c5456385a6f884605eac0d6119">
+<img width="50%" align="https://media.discordapp.net/attachments/999754003455942727/1208122817963622450/m0NAL1ZAPP.jpg?ex=65e2230d&is=65cfae0d&hm=cf22d4986a8f766b00b6e74f6742b99c04f044c5456385a6f884605eac0d6119">
 <div align="left" width="100%">
 <img src="https://media.discordapp.net/attachments/999753965472325652/1208121880628830378/mona-lisa-tablosunun-hikayesi-nedir-mona-lisa-16418950_6307_amp.png?ex=65e2222e&is=65cfad2e&hm=1f31dd686de42b9a45141da953e0e624c79dd79d5473f309d2f1988139637d5d&=&format=webp&quality=lossless">
 <p align="center">
