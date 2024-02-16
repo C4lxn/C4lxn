@@ -4,7 +4,7 @@
 
 <img width="3%" align="right" src="https://cdn.discordapp.com/attachments/999754003455942727/1194315449391906847/pp2.jpg">
 <div align="left" width="100%">
-<img src="https://media.discordapp.net/attachments/999753965472325652/1208119102103883776/1200px-European_art_banner_Mona_Lisa.jpg?ex=65e21f97&is=65cfaa97&hm=b5b83ae8766b9e0c907dfc2aeb03e258956dabad2af0beb7c4c54e16bb9298d9&=&format=webp">
+<img src="https://media.discordapp.net/attachments/999753965472325652/1208121880628830378/mona-lisa-tablosunun-hikayesi-nedir-mona-lisa-16418950_6307_amp.png?ex=65e2222e&is=65cfad2e&hm=1f31dd686de42b9a45141da953e0e624c79dd79d5473f309d2f1988139637d5d&=&format=webp&quality=lossless">
 <p align="center">
  <a href="https://discord.com/users/939214875861868654" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/owslo" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
