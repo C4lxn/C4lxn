@@ -15,8 +15,7 @@
 
  <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=wh4d5ljfqzfp4cpt6dci81xj4&cover_image=true&theme=natemoo-re&show_onile=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=owslo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
-<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=owslo&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+
 
 
 
