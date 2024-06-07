@@ -5,7 +5,6 @@
 </h1>
 
 <h3 align="center">I'm Berke"Toe" Fidan</h3>
-
 <br/>
 
 <div align="center">
