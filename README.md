@@ -18,10 +18,10 @@ Hello, I am Berke "Toe" Fidan. Let me tell you briefly about myself. I am a Grap
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.youtube.com/playlist?list=PLsQg6DjQdAm5rBGJyEmuiMxII3sBEjAs7" target="_blank">
-    <img src="https://img.shields.io/badge/my%20music-0077B5?style=for-the-badge&logo=youtubemusic&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/my%20music-red?style=for-the-badge&logo=youtubemusic&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://ffm.bio/toe" target="_blank">
+     <img src="https://img.shields.io/badge/website-0077B5?style=for-the-badge&logo=world&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
