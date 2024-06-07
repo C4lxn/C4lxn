@@ -11,7 +11,7 @@
   <a href="https://open.spotify.com/user/agghjvwwdvlvcrwr88f8k7rru?si=190f2dd85b294000" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/berkefiidan/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
   If you want to listen to my songs, you can click on the image below.
-  <a href="[https://www.youtube.com/playlist?list=PLsQg6DjQdAm5rBGJyEmuiMxII3sBEjAs7]" target"blank_"><img width="15%" src="Orange_Yellow_Black_Artistic_Fiery_Sky_and_Young_Man_Silhouette_Album_Cover.png?ex=66644871&is=6662f6f1&hm=9f2300053d5967e39449ee01bb7a506b3c1b347822c6d5db49e070d0ee539df8&=&format=webp&quality=lossless&width=676&height=676&logo=playlist&logoColor=white"></a>
+  <a href="[https://www.youtube.com/playlist?list=PLsQg6DjQdAm5rBGJyEmuiMxII3sBEjAs7]" target"blank_"><img width="15%" src="[https://media.discordapp.net/attachments/1150346674196197378/1248608133534847016/Orange_Yellow_Black_Artistic_Fiery_Sky_and_Young_Man_Silhouette_Album_Cover.png?ex=66644871&is=6662f6f1&hm=9f2300053d5967e39449ee01bb7a506b3c1b347822c6d5db49e070d0ee539df8&=&format=webp&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 
 
