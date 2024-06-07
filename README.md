@@ -38,7 +38,7 @@ Hello, I am Berke "Toe" Fidan. Let me tell you briefly about myself. I am a Grap
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Let's play some snake game 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
