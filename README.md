@@ -11,6 +11,7 @@
   <a href="https://open.spotify.com/user/agghjvwwdvlvcrwr88f8k7rru?si=190f2dd85b294000" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/berkefiidan/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
   If you want to listen to my songs, you can click on the image below.
+<p align="center">
   <a href="[https://www.youtube.com/playlist?list=PLsQg6DjQdAm5rBGJyEmuiMxII3sBEjAs7]" target"blank_"><img width="15%" src="[&=&format=webp&style=for-the-badge&logo=playlist&logoColor=white"></a>
 
 
