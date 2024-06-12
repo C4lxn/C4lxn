@@ -9,7 +9,7 @@
 
 <div align="center">
  
-Hello, I am Berke "Toe" Fidan. Let me tell you briefly about myself. I am a Graphic Designer, Tool and Website Developer and also make music. If you want to listen, you can access it from the links below.
+Hello, I am Berke "Corleone" Fidan. Let me tell you briefly about myself. I am a Graphic Designer, Tool and Website Developer and also make music. If you want to listen, you can access it from the links below.
 
  </div>
  
