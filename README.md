@@ -20,7 +20,7 @@ Hello, I am Berke "Corleone" Fidan. Let me tell you briefly about myself. I am a
   <a href="https://soundcloud.com/corleonnee" target="_blank">
     <img src="https://img.shields.io/badge/my%20music-red?style=for-the-badge&logo=youtubemusic&logoColor=white" target="_blank" />
   </a>
-  <a href="https://ffm.bio/toe" target="_blank">
+  <a href="https://ffm.bio/corleone" target="_blank">
      <img src="https://img.shields.io/badge/website-0077B5?style=for-the-badge&logo=world&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
